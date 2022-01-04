@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37369" started-at="2022-01-03T20:56:08 IST" finished-at="2022-01-03T20:56:45 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37369" started-at="2022-01-03T20:56:08 IST" finished-at="2022-01-03T20:56:45 IST">
+      <class name="Com.dws.test.Logintest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="openBrowser" is-config="true" duration-ms="13749" started-at="2022-01-03T20:55:54 IST" finished-at="2022-01-03T20:56:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterApplicationUrl()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="enterApplicationUrl" is-config="true" duration-ms="7261" started-at="2022-01-03T20:56:08 IST" finished-at="2022-01-03T20:56:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterApplicationUrl -->
+        <test-method status="PASS" signature="maximizeWindow()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="maximizeWindow" is-config="true" duration-ms="128" started-at="2022-01-03T20:56:15 IST" finished-at="2022-01-03T20:56:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximizeWindow -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="getAllCookies" is-config="true" duration-ms="125" started-at="2022-01-03T20:56:15 IST" finished-at="2022-01-03T20:56:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="login(java.lang.String,java.lang.String)[pri:1, instance:Com.dws.test.Logintest@1a3869f4]" name="login" duration-ms="18178" started-at="2022-01-03T20:56:15 IST" data-provider="info" finished-at="2022-01-03T20:56:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1994ankitchoudhari@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ankit@1995]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="getAllCookies" is-config="true" duration-ms="31" started-at="2022-01-03T20:56:34 IST" finished-at="2022-01-03T20:56:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="addtestt()[pri:2, instance:Com.dws.test.Logintest@1a3869f4]" name="addtestt" duration-ms="6474" started-at="2022-01-03T20:56:34 IST" finished-at="2022-01-03T20:56:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtestt -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="getAllCookies" is-config="true" duration-ms="13" started-at="2022-01-03T20:56:40 IST" finished-at="2022-01-03T20:56:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="confirmoder()[pri:3, instance:Com.dws.test.Logintest@1a3869f4]" name="confirmoder" duration-ms="305" started-at="2022-01-03T20:56:40 IST" finished-at="2022-01-03T20:56:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmoder -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="getAllCookies" is-config="true" duration-ms="11" started-at="2022-01-03T20:56:41 IST" finished-at="2022-01-03T20:56:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="cod()[pri:4, instance:Com.dws.test.Logintest@1a3869f4]" name="cod" duration-ms="524" started-at="2022-01-03T20:56:41 IST" finished-at="2022-01-03T20:56:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cod -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="getAllCookies" is-config="true" duration-ms="11" started-at="2022-01-03T20:56:41 IST" finished-at="2022-01-03T20:56:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="paymentinfp()[pri:5, instance:Com.dws.test.Logintest@1a3869f4]" name="paymentinfp" duration-ms="612" started-at="2022-01-03T20:56:41 IST" finished-at="2022-01-03T20:56:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paymentinfp -->
+        <test-method status="PASS" signature="getAllCookies()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="getAllCookies" is-config="true" duration-ms="25" started-at="2022-01-03T20:56:42 IST" finished-at="2022-01-03T20:56:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllCookies -->
+        <test-method status="PASS" signature="confirmoder1()[pri:6, instance:Com.dws.test.Logintest@1a3869f4]" name="confirmoder1" duration-ms="343" started-at="2022-01-03T20:56:42 IST" finished-at="2022-01-03T20:56:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confirmoder1 -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:Com.dws.test.Logintest@1a3869f4]" name="deleteCookies" is-config="true" duration-ms="3073" started-at="2022-01-03T20:56:42 IST" finished-at="2022-01-03T20:56:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+      </class> <!-- Com.dws.test.Logintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
